@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🤔 I’m looking for a nice company 🔭 
 
 <!--
 **imki123/imki123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
