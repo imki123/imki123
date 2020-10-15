@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🤔 I’m looking for a nice company 🔭 
-
+- Looking for a nice company 🔭🤔 
+- Resume : [[Link]](https://imki123.github.io/resume.pdf)
 <!--
 **imki123/imki123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
