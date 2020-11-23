@@ -2,9 +2,10 @@
 - Looking for a nice company 🔭🤔 
 - Resume : [[Link]](https://imki123.github.io/resume.pdf)
 - Blog : [[Link]](https://imki123.github.io)
+- Canvas : [[Link]](https://imki123.github.io/example_code)   
 - Catbook : [[Link]](https://imki123.github.io/catbook)
 - OnAndOff : [[Link]](https://imki123.github.io/onandoff)   
-- Canvas : [[Link]](https://imki123.github.io/example_code)   
+
 <!--
 **imki123/imki123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
