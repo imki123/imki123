@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Looking for a nice company 🔭🤔 
 - Resume : [[Link]](https://imki123.github.io/resume.pdf)
-- Interactive Coding : [[Link]](https://imki123.github.io/interactive_coding)   
+- Interactive Coding : [[Link]](https://imki123.github.io/interactive_coding) ⚡   
 - Blog : [[Link]](https://imki123.github.io)
 - Catbook : [[Link]](https://imki123.github.io/catbook)
 - OnAndOff : [[Link]](https://imki123.github.io/onandoff)   
