@@ -1,6 +1,6 @@
 ### Hi there 👋
-- Blog : [[Link]](https://imki123.github.io) 🔥  
-- Interactive Coding : [[Link]](https://imki123.github.io/interactive_coding) 🔥   
+- Blog : [[Link]](https://imki123.github.io)   
+- Interactive Coding : [[Link]](https://imki123.github.io/interactive_coding)   
 - Catbook : [[Link]](https://imki123.github.io/catbook)
 - OnAndOff : [[Link]](https://imki123.github.io/onandoff)   
 - Resume : [[Link]](https://imki123.github.io/resume.pdf)
