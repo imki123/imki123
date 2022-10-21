@@ -1,13 +1,15 @@
 ### Hi there 👋
+- Resume : [[Link]](https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15)   
 - Blog : [[Link]](https://imki123.github.io)   
 - Interactive Coding : [[Link]](https://imki123.github.io/interactive_coding)   
 - Catbook : [[Link]](https://imki123.github.io/catbook)
 - OnAndOff : [[Link]](https://imki123.github.io/onandoff)   
 - AccountBook : [[Link]](https://imki123.github.io/account-book/login)
-- Resume : [[Link]](https://imki123.github.io/resume.pdf)
+
 
 ![night](https://imki123.github.io/interactive_coding/images/night.jpg)
 <!--
+- Resume(old) : [[Link]](https://imki123.github.io/resume.pdf)
 **imki123/imki123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
