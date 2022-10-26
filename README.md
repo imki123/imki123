@@ -4,7 +4,8 @@
 - Interactive Coding : [[Link]](https://imki123.github.io/interactive_coding)   
 - Catbook : [[Link]](https://imki123.github.io/catbook)
 - OnAndOff : [[Link]](https://imki123.github.io/onandoff)   
-- AccountBook : [[Link]](https://imki123.github.io/account-book/login)
+- AccountBook : [[Link]](https://imki123.github.io/account-book)
+- go-memo-next : [[Link]](https://imki123.github.io/go-memo-next) (개발중)
 
 
 ![night](https://imki123.github.io/interactive_coding/images/night.jpg)
