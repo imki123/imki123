@@ -1,11 +1,11 @@
 ### Hi there 👋
 - Resume : [[Link]](https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15)   
-- Blog : [[Link]](https://imki123.github.io)   
-- Interactive Coding : [[Link]](https://imki123.github.io/interactive_coding)   
-- Catbook : [[Link]](https://imki123.github.io/catbook)
-- OnAndOff : [[Link]](https://imki123.github.io/onandoff)   
-- AccountBook : [[Link]](https://imki123.github.io/account-book)
-- go-memo-next : [[Link]](https://imki123.github.io/go-memo-next) (개발중)
+- Blog : [[APP]](https://imki123.github.io) [[REPO]](https://github.com/imki123/imki123.github.io)
+- Interactive Coding : [[APP]](https://imki123.github.io/interactive_coding) [[REPO]](https://github.com/imki123/interactive_coding)
+- Catbook : [[APP]](https://imki123.github.io/catbook) [[REPO]](https://github.com/imki123/catbook)
+- OnAndOff : [[APP]](https://imki123.github.io/onandoff) [[REPO]](https://github.com/imki123/onandoff)
+- AccountBook : [[APP]](https://imki123.github.io/account-book) [[REPO]](https://github.com/imki123/account-book)
+- go-memo-next : [[APP]](https://imki123.github.io/go-memo-next) [[REPO]](https://github.com/imki123/go-memo-next) (WIP)
 
 
 ![night](https://imki123.github.io/interactive_coding/images/night.jpg)
