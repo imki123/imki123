@@ -2,7 +2,7 @@
 
 ### 블로그
 - Blog: [Velog](https://velog.io/@goyoung2)
-- [Blog(old)](https://imki123.github.io):  [repo](https://github.com/imki123/imki123.github.io)
+- Blog(old): [Link](https://imki123.github.io) /  [repo](https://github.com/imki123/imki123.github.io)
 
 ### 이력서
 - 이력서: [[Notion]](https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15)   
