@@ -5,7 +5,7 @@
 - Blog(old): [Link](https://imki123.github.io) /  [repo](https://github.com/imki123/imki123.github.io)
 
 ### 이력서
-- 이력서: [[Notion]](https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15)   
+- 이력서: [Notion](https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15)   
 
 ### 사이드 프로젝트
 - [InteractiveCoding](https://imki123.github.io/interactive_coding): UI 상호작용 앱 / canvas / [repo](https://github.com/imki123/interactive_coding)
