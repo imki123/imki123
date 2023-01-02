@@ -8,7 +8,7 @@
 - 이력서: [Notion](https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15)   
 
 ### 사이드 프로젝트
-- [GoStorybook](https://imki123.github.io/go-storybook): 리액트 스토리북 / Storybook / [repo](https://github.com/imki123/go-storybook)
+- [GoStorybook](https://imki123.github.io/go-storybook): 리액트 스토리북 / Storybook / [repo](https://github.com/imki123/go-storybook) (개발중)
 - [GoMemoNext](https://imki123.github.io/go-memo-next): Unrich 메모장 앱 / Next / [repo](https://github.com/imki123/go-memo-next)
 - [AccountBook](https://imki123.github.io/account-book): 가계부 앱 / React / [repo](https://github.com/imki123/account-book)
 - [Catbook](https://imki123.github.io/catbook): 고양이 사진 검색 앱 / React-native / [repo](https://github.com/imki123/catbook)
