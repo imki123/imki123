@@ -19,7 +19,7 @@
 
 ### End of services
 
-- [OnAndOff](https://imki123.github.io/onandoff): Clicking buttons game / Socket.io / [repo](https://github.com/imki123/onandoff)
+- [OnAndOff] (https://imki123.github.io/onandoff): Clicking buttons game / Socket.io / [repo](https://github.com/imki123/onandoff)
 - [Blog](https://imki123.github.io): Blog made with React / React / [repo](https://github.com/imki123/imki123.github.io)
 
 ### 💻 Tech Stacks
