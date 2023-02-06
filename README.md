@@ -1,4 +1,4 @@
-## 반가워요~! 👋 프론트엔드 개발자 후디에요~ ⛵️
+## 반가워요~! 👋 FE개발자 후디에요 ⛵️ 가치있는 서비스를 만들기 위해 노력해요 ✨
 
 ### 블로그
 - Blog: [https://velog.io/@goyoung2](https://velog.io/@goyoung2)
