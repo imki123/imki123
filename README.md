@@ -1,8 +1,7 @@
 ## 반가워요~! 👋 프론트엔드 개발자 후디에요~ ⛵️
 
 ### 블로그
-- Blog: [Velog](https://velog.io/@goyoung2)
-- Blog(old): [Link](https://imki123.github.io) /  [repo](https://github.com/imki123/imki123.github.io)
+- Blog: [https://velog.io/@goyoung2](https://velog.io/@goyoung2)
 
 ### 이력서
 - 이력서: [Notion](https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15)   
@@ -14,7 +13,8 @@
 - [Catbook](https://imki123.github.io/catbook): 고양이 사진 검색 앱 / React-native / [repo](https://github.com/imki123/catbook)
 - [InteractiveCoding](https://imki123.github.io/interactive_coding): UI 상호작용 앱 / canvas / [repo](https://github.com/imki123/interactive_coding)
 - [GoStorybook](https://imki123.github.io/go-storybook): 리액트 스토리북 / Storybook / [repo](https://github.com/imki123/go-storybook) (개발중)
-- [OnAndOff](https://imki123.github.io/onandoff): 버튼 누르기 게임 앱 / Socket.io / [repo](https://github.com/imki123/onandoff) (서버 이사중...)
+- [OnAndOff](https://imki123.github.io/onandoff): 버튼 누르기 게임 앱 / Socket.io / [repo](https://github.com/imki123/onandoff) (서비스 종료)
+- [Blog](https://imki123.github.io): 리액트로 만든 블로그 / React / [repo](https://github.com/imki123/imki123.github.io) (서비스 종료)
 
 
 
