@@ -12,7 +12,7 @@
 - [AccountBook](https://imki123.github.io/account-book): 가계부 앱 / React / [repo](https://github.com/imki123/account-book)
 - [Catbook](https://imki123.github.io/catbook): 고양이 사진 검색 앱 / React-native / [repo](https://github.com/imki123/catbook)
 - [InteractiveCoding](https://imki123.github.io/interactive_coding): UI 상호작용 앱 / canvas / [repo](https://github.com/imki123/interactive_coding)
-- [GoStorybook](https://imki123.github.io/go-storybook): 리액트 스토리북 / Storybook / [repo](https://github.com/imki123/go-storybook) (개발중)
+- [GoStorybook](https://imki123.github.io/go-storybook): 리액트 스토리북 / Storybook / [repo](https://github.com/imki123/go-storybook) / [npm](https://www.npmjs.com/package/go-storybook)
 - [OnAndOff](https://imki123.github.io/onandoff): 버튼 누르기 게임 앱 / Socket.io / [repo](https://github.com/imki123/onandoff) (서비스 종료)
 - [Blog](https://imki123.github.io): 리액트로 만든 블로그 / React / [repo](https://github.com/imki123/imki123.github.io) (서비스 종료)
 
