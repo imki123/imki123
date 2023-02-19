@@ -2,12 +2,12 @@
 
 ### Blog
 - https://velog.io/@goyoung2
-- How to Become front-end tech-leader(Blog): https://velog.io/@goyoung2/how-to-be-front-end-tech-leader
+- How to Become Front-end Tech-leader(Blog): https://velog.io/@goyoung2/how-to-be-front-end-tech-leader
 
 ### Resume
 - Resume (Notion): https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15  
 
-### Side Projects
+### Side projects
 
 - [GoMemoNext](https://imki123.github.io/go-memo-next): Unrich memo app / Next / [repo](https://github.com/imki123/go-memo-next)
 - [Catbook](https://imki123.github.io/catbook): Searching cat images app / React-native / [repo](https://github.com/imki123/catbook)
@@ -16,7 +16,7 @@
 - [AccountBook](https://imki123.github.io/account-book): Account book app / React / [repo](https://github.com/imki123/account-book)
 
 ### End of services
-- [OnAndOff](https://imki123.github.io/onandoff): Clicking button game / Socket.io / [repo](https://github.com/imki123/onandoff) 
+- [OnAndOff](https://imki123.github.io/onandoff): Clicking buttons game / Socket.io / [repo](https://github.com/imki123/onandoff) 
 - [Blog](https://imki123.github.io): Blog made with React / React / [repo](https://github.com/imki123/imki123.github.io)
 
 
