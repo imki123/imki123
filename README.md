@@ -1,4 +1,4 @@
-## Hello~! 👋 I'm Hoodie, FE Developer. ⛵️ I'm trying to develop valuable services. ✨
+## Hello~! 👋 I'm Hoodie, FE Developer. ⛵️ I'm trying to develop Valuable Services. ✨
 
 ### Blog
 - https://velog.io/@goyoung2
