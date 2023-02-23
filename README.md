@@ -19,7 +19,7 @@
 
 - [GoMemoNext](https://imki123.github.io/go-memo-next): Unrich memo app / Next.js / [repo](https://github.com/imki123/go-memo-next)
 - [Catbook](https://imki123.github.io/catbook): Searching cat images app / React-native / [repo](https://github.com/imki123/catbook)
-- [InteractiveCoding](https://imki123.github.io/interactive_coding): Interactive design app / canvas / [repo](https://github.com/imki123/interactive_coding)
+- [InteractiveCoding](https://imki123.github.io/interactive_coding): Interactive design app / HTML canvas / [repo](https://github.com/imki123/interactive_coding)
 - [GoStorybook](https://imki123.github.io/go-storybook): Storybook for React / Storybook / [repo](https://github.com/imki123/go-storybook) / [npm](https://www.npmjs.com/package/go-storybook)
 - [AccountBook](https://imki123.github.io/account-book): Account book app / React / [repo](https://github.com/imki123/account-book)
 
