@@ -1,15 +1,19 @@
-## Hello~! 👋 I'm Hoodie, FE Developer. ⛵️ I'm trying to develop Valuable Services. ✨
+<div style="text-align:center;">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:4444ff&height=140&text=Hello~!👋%20I'm%20Hoodie,%20Challanging%20FE%20Developer✨&animation=fadeIn&fontColor=000000&fontSize=32&fontAlignY=35"
+  />
+</div>
 
-### Blog
+## 📖 Blog
 
 - https://velog.io/@goyoung2
 - How to Become Front-end Tech-leader(Blog): https://velog.io/@goyoung2/how-to-be-front-end-tech-leader
 
-### Resume
+## 📃 Resume
 
 - Resume (Notion): https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15
 
-### Side projects
+## 🎡 Side projects
 
 - [GoMemoNext](https://imki123.github.io/go-memo-next): Unrich memo app / Next.js / [repo](https://github.com/imki123/go-memo-next)
 - [Catbook](https://imki123.github.io/catbook): Searching cat images app / React-native / [repo](https://github.com/imki123/catbook)
@@ -19,10 +23,50 @@
 
 ### End of services
 
-- [OnAndOff] (https://imki123.github.io/onandoff): Clicking buttons game / Socket.io / [repo](https://github.com/imki123/onandoff)
+- [OnAndOff](https://imki123.github.io/onandoff): Clicking buttons game / Socket.io / [repo](https://github.com/imki123/onandoff)
 - [Blog](https://imki123.github.io): Blog made with React / React / [repo](https://github.com/imki123/imki123.github.io)
 
-### 💻 Tech Stacks
+<div style="text-align: left">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33">
+    📧 Contact me
+  </h2>
+    <a href="https://velog.io/@goyoung2">
+      <img
+        src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@goyoung2"
+      />
+    </a>
+    <a href="mailto:popping2606@gmail.com">
+      <img
+        src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:popping2606@gmail.com"
+      />
+    </a>
+    <a
+      href="https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15"
+    >
+      <img
+        src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15"
+      />
+    </a>
+</div>
+<div style="text-align: left">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33">🏅 Stats</h2>
+  <div style="text-align: left">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=imki123&custom_title=imki123's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=imki123&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+    />
+  </div>
+  <div style="text-align: left">
+    <a href="https://github.com/imki123">
+      <img
+        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimki123%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"
+    /></a>
+  </div>
+</div>
+
+## 💻 Tech Stacks
 
 <h4><em>Frontend</em></h4>
 <p>
