@@ -52,10 +52,10 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33">🏅 Stats</h2>
   <div style="text-align: left">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=imki123&custom_title=imki123's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-    />
+    src="https://github-readme-stats.vercel.app/api?username=imki123&show_icons=true"
+  />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=imki123&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=imki123&layout=compact"
     />
   </div>
   <div style="text-align: left">
