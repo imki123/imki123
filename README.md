@@ -6,7 +6,7 @@
 </div>
 
 <!-- MD context --> 
-## 🖥 Blog
+## ⛵ Blog
 
 - https://velog.io/@goyoung2
 - How to Become Front-end Tech-leader(Blog): https://velog.io/@goyoung2/how-to-be-front-end-tech-leader
@@ -15,7 +15,7 @@
 
 - Resume (Notion): https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15
 
-## 🎡 Side projects
+## 🚀 Side projects
 
 - [GoMemoNext](https://imki123.github.io/go-memo-next): Unrich memo app / Next.js / [repo](https://github.com/imki123/go-memo-next)
 - [Catbook](https://imki123.github.io/catbook): Searching cat images app / React-native / [repo](https://github.com/imki123/catbook)
@@ -23,7 +23,7 @@
 - [GoStorybook](https://imki123.github.io/go-storybook): Storybook for React / Storybook / [repo](https://github.com/imki123/go-storybook) / [npm](https://www.npmjs.com/package/go-storybook)
 - [AccountBook](https://imki123.github.io/account-book): Account book app / React / [repo](https://github.com/imki123/account-book)
 
-### End of services
+### 🚫 End of services
 
 - [OnAndOff](https://imki123.github.io/onandoff): Clicking buttons game / Socket.io / [repo](https://github.com/imki123/onandoff)
 - [Blog](https://imki123.github.io): Blog made with React / React / [repo](https://github.com/imki123/imki123.github.io)
