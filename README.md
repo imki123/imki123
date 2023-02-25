@@ -1,12 +1,13 @@
-<!-- HTML context --> 
+<!-- HTML context -->
 <div style="text-align:center;">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:4444ff&height=140&text=Hello~!👋%20I'm%20Hoodie,%20Challanging%20FE%20Developer✨&animation=fadeIn&fontColor=000000&fontSize=32&fontAlignY=35"
   />
 </div>
 
-<!-- MD context --> 
-## ⛵ Blog 
+<!-- MD context -->
+
+## ⛵ Blog
 
 - https://velog.io/@goyoung2
 - How to Become Front-end Tech-leader(Blog): https://velog.io/@goyoung2/how-to-be-front-end-tech-leader
@@ -26,7 +27,7 @@
 ### 🚫 End of services
 
 - [OnAndOff](https://imki123.github.io/onandoff): Clicking buttons game / Socket.io / [repo](https://github.com/imki123/onandoff)
-- [Blog_imki123](https://imki123.github.io): Blog made with React / React / [repo](https://github.com/imki123/imki123.github.io)
+- [Blog_imki123](https://imki123.github.io): Personal Blog made with React / React / [repo](https://github.com/imki123/imki123.github.io)
 
 <!-- HTML context -->
 <h2>💻 Tech Stacks</h2>
