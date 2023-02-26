@@ -29,41 +29,6 @@
 - [Blog](https://imki123.github.io): Blog made with React / React / [repo](https://github.com/imki123/imki123.github.io)
 
 <!-- HTML context -->
-<h2>📧 Contact me</h2>
-<a href="https://velog.io/@goyoung2">
-  <img
-    src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@goyoung2"
-  />
-</a>
-<a href="mailto:popping2606@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:popping2606@gmail.com"
-  />
-</a>
-<a
-  href="https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15"
->
-  <img
-    src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15"
-  />
-</a>
-
-<h2>🏅 Stats</h2>
-<div>
-  <img
-  src="https://github-readme-stats.vercel.app/api?username=imki123&show_icons=true&count_private=true"
-/>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imki123&layout=compact"
-  />
-</div>
-<div>
-  <a href="https://github.com/imki123">
-    <img
-      src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimki123%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"
-  /></a>
-</div>
-
 <h2>💻 Tech Stacks</h2>
 
 <h4><em>Frontend</em></h4>
@@ -341,3 +306,38 @@
       src="https://img.shields.io/badge/Notion-000000?&style=badge&logo=Notion&logoColor=white"
   /></a>
 </p>
+
+<h2>🏅 Stats</h2>
+<div>
+  <img
+  src="https://github-readme-stats.vercel.app/api?username=imki123&show_icons=true&count_private=true"
+/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imki123&layout=compact"
+  />
+</div>
+<div>
+  <a href="https://github.com/imki123">
+    <img
+      src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimki123%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"
+  /></a>
+</div>
+
+<h2>📧 Contact me</h2>
+<a href="https://velog.io/@goyoung2">
+  <img
+    src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@goyoung2"
+  />
+</a>
+<a href="mailto:popping2606@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:popping2606@gmail.com"
+  />
+</a>
+<a
+  href="https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15"
+>
+  <img
+    src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15"
+  />
+</a>
