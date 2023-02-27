@@ -325,14 +325,14 @@
 </div>
 
 <h2>📧 Contact me</h2>
-<a href="https://velog.io/@goyoung2">
-  <img
-    src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@goyoung2"
-  />
-</a>
 <a href="mailto:popping2606@gmail.com">
   <img
     src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:popping2606@gmail.com"
+  />
+</a>
+<a href="https://velog.io/@goyoung2">
+  <img
+    src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@goyoung2"
   />
 </a>
 <a
