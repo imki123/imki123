@@ -9,7 +9,7 @@
 
 ## ⛵ Blog
 
-- https://velog.io/@goyoung2
+- https://velog.io/@goyoung2 
 - How to Become Front-end Tech-leader (Blog): https://velog.io/@goyoung2/how-to-be-front-end-tech-leader
 
 ## 📃 Resume
