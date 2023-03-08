@@ -17,8 +17,8 @@ Hello! I am Hoodie(Geeyoung Im), a FE developer aiming to become a front-end tec
 
 ## 📃 Resume
 
-- Resume(kr): https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15
-- Resume(En): https://goyoung2.notion.site/Hoodie-s-journey-to-becoming-a-front-end-tech-leader-c7546dc5352049e2a1542388b392cc8b
+- Resume(KR): https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15
+- Resume(EN): https://goyoung2.notion.site/Hoodie-s-journey-to-becoming-a-front-end-tech-leader-c7546dc5352049e2a1542388b392cc8b
 
 ## 🚀 Side projects
 
