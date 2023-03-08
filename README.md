@@ -7,7 +7,7 @@
 
 <!-- MD context -->
 
-## 😄 About me
+## 😄 About Me
 Hello! I am Hoodie(Geeyoung Im), a FE developer aiming to become a front-end tech leader. My dream is to become a developer that helps the world. I strive to create valuable products. ✨
 
 ## ⛵ Blog
@@ -20,7 +20,7 @@ Hello! I am Hoodie(Geeyoung Im), a FE developer aiming to become a front-end tec
 - Resume(KR): https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15
 - Resume(EN): https://goyoung2.notion.site/Hoodie-s-journey-to-becoming-a-front-end-tech-leader-c7546dc5352049e2a1542388b392cc8b
 
-## 🚀 Side projects
+## 🚀 Side Projects
 
 - [GoMemoNext](https://imki123.github.io/go-memo-next): Unrich memo app / Next.js / [repo](https://github.com/imki123/go-memo-next)
 - [Catbook](https://imki123.github.io/catbook): Searching cat images app / React-native / [repo](https://github.com/imki123/catbook)
