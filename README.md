@@ -7,6 +7,9 @@
 
 <!-- MD context -->
 
+## 😄 About me
+Hello! I am Hoodie(Geeyoung Im), a FE developer aiming to become a front-end tech leader. My dream is to become a developer that helps the world. I strive to create valuable products. ✨
+
 ## ⛵ Blog
 
 - https://velog.io/@goyoung2 
@@ -14,7 +17,8 @@
 
 ## 📃 Resume
 
-- Resume (Notion): https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15
+- Resume(kr): https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15
+- Resume(En): https://goyoung2.notion.site/Hoodie-s-journey-to-becoming-a-front-end-tech-leader-c7546dc5352049e2a1542388b392cc8b
 
 ## 🚀 Side projects
 
