@@ -14,7 +14,6 @@ Hello! I am Hoodie(Geeyoung Im), a FE developer aiming to become a front-end tec
 ## ⛵ Blog
 
 - https://velog.io/@goyoung2
-- How to Become Front-end Tech-leader (Blog): https://velog.io/@goyoung2/how-to-be-front-end-tech-leader
 
 ## 📃 Resume
 
