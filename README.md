@@ -13,11 +13,11 @@ I'm working as a front-end engineer. I value products, colleagues, and growth. I
 
 ## ⛵ Blog
 
-- https://velog.io/@goyoung2
+- <https://velog.io/@goyoung2>
 
 ## 📃 Resume
 
-- Resume(KR): https://goyoung2.notion.site/goyoung2/Greety-84d5d7aef7d045c58d76ed6d387913e0
+- Resume(KR): <https://goyoung2.notion.site/goyoung2/Greety-84d5d7aef7d045c58d76ed6d387913e0>
 
 ## 🚀 Side Projects
 
@@ -33,9 +33,11 @@ I'm working as a front-end engineer. I value products, colleagues, and growth. I
 - [Blog_imki123](https://imki123.github.io): Personal log made with React / React / [repo](https://github.com/imki123/imki123.github.io)
 
 <!-- HTML context -->
+
 <h2>💻 Tech Stacks</h2>
 
 <h4><em>Frontend</em></h4>
+
 <p>
   <a href="https://www.google.co.kr/search?q=HTML5" target="_blank"
     ><img
@@ -58,21 +60,27 @@ I'm working as a front-end engineer. I value products, colleagues, and growth. I
       alt="TypeScript"
   /></a>
 </p>
+
 <p>
   <a href="https://www.google.co.kr/search?q=React" target="_blank"
     ><img
       src="https://img.shields.io/badge/React-61DAFB?&style=badge&logo=React&logoColor=white"
       alt="React"
   /></a>
-  <a href="https://www.google.co.kr/search?q=ReactRouter" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/ReactRouter-CA4245?&style=badge&logo=React-router&logoColor=white"
-      alt="ReactRouter"
-  /></a>
   <a href="https://www.google.co.kr/search?q=Next.js" target="_blank"
     ><img
       src="https://img.shields.io/badge/Next.js-000000?&style=badge&logo=Next.js&logoColor=white"
       alt="Next.js"
+  /></a>
+  <a href="https://www.google.co.kr/search?q=ReactHookForm" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/ReactHookForm-EC5990?&style=badge&logo=ReactHookForm&logoColor=white"
+      alt="ReactHookForm"
+  /></a>
+  <a href="https://www.google.co.kr/search?q=ReactRouter" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/ReactRouter-CA4245?&style=badge&logo=ReactRouter&logoColor=white"
+      alt="ReactRouter"
   /></a>
   <a href="https://www.google.co.kr/search?q=ReactQuery" target="_blank"
     ><img
@@ -83,6 +91,11 @@ I'm working as a front-end engineer. I value products, colleagues, and growth. I
     ><img
       src="https://img.shields.io/badge/Zustand-000000?&style=badge&logo=Zustand&logoColor=white"
       alt="Zustand"
+  /></a>
+  <a href="https://www.google.co.kr/search?q=Recoil" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/Recoil-3578E5?&style=badge&logo=Recoil&logoColor=white"
+      alt="Recoil"
   /></a>
   <a href="https://www.google.co.kr/search?q=Redux" target="_blank"
     ><img
@@ -100,6 +113,7 @@ I'm working as a front-end engineer. I value products, colleagues, and growth. I
       alt="Axios"
   /></a>
 </p>
+
 <p>
   <a href="https://www.google.co.kr/search?q=TailwindCSS" target="_blank"
     ><img
@@ -127,6 +141,7 @@ I'm working as a front-end engineer. I value products, colleagues, and growth. I
       alt="Sass"
   /></a>
 </p>
+
 <p>
   <a href="https://www.google.co.kr/search?q=ReactNative" target="_blank"
     ><img
@@ -139,11 +154,17 @@ I'm working as a front-end engineer. I value products, colleagues, and growth. I
       alt="Expo"
   /></a>
 </p>
+
 <p>
   <a href="https://www.google.co.kr/search?q=npm" target="_blank"
     ><img
       src="https://img.shields.io/badge/npm-CB3837?&style=badge&logo=npm&logoColor=white"
       alt="npm"
+  /></a>
+  <a href="https://www.google.co.kr/search?q=pnpm" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/pnpm-F69220?&style=badge&logo=pnpm&logoColor=white"
+      alt="pnpm"
   /></a>
   <a href="https://www.google.co.kr/search?q=Yarn" target="_blank"
     ><img
@@ -170,7 +191,18 @@ I'm working as a front-end engineer. I value products, colleagues, and growth. I
       src="https://img.shields.io/badge/Vite-646CFF?&style=badge&logo=Vite&logoColor=white"
       alt="Vite"
   /></a>
+  <a href="https://www.google.co.kr/search?q=Turborepo" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/Turborepo-EF4444?&style=badge&logo=Turborepo&logoColor=white"
+      alt="Turborepo"
+  /></a>
+  <a href="https://www.google.co.kr/search?q=Lerna" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/Lerna-9333EA?&style=badge&logo=Lerna&logoColor=white"
+      alt="Lerna"
+  /></a>
 </p>
+
 <p>
   <a href="https://www.google.co.kr/search?q=EsLint" target="_blank"
     ><img
@@ -186,6 +218,11 @@ I'm working as a front-end engineer. I value products, colleagues, and growth. I
 
 <h4><em>Test</em></h4>
 <p>
+  <a href="https://www.google.co.kr/search?q=Playwright" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/Playwright-2EAD33?&style=badge&logo=Playwright&logoColor=white"
+      alt="Playwright"
+  /></a>
   <a href="https://www.google.co.kr/search?q=Jest" target="_blank"
     ><img
       src="https://img.shields.io/badge/Jest-C21325?&style=badge&logo=Jest&logoColor=white"
@@ -226,6 +263,11 @@ I'm working as a front-end engineer. I value products, colleagues, and growth. I
     ><img
       src="https://img.shields.io/badge/Storybook-FF4785?&style=badge&logo=Storybook&logoColor=white"
       alt="Storybook"
+  /></a>
+  <a href="https://www.google.co.kr/search?q=Ariakit" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/Ariakit-007ACC?&style=badge&logo=Ariakit&logoColor=white"
+      alt="Ariakit"
   /></a>
   <a href="https://www.google.co.kr/search?q=AtomicDesign" target="_blank"
     ><img
@@ -275,11 +317,6 @@ I'm working as a front-end engineer. I value products, colleagues, and growth. I
     ><img
       src="https://img.shields.io/badge/Spring-6DB33F?&style=badge&logo=Spring&logoColor=white"
       alt="Spring"
-  /></a>
-  <a href="https://www.google.co.kr/search?q=SpringBoot" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/SpringBoot-6DB33F?&style=badge&logo=SpringBoot&logoColor=white"
-      alt="SpringBoot"
   /></a>
   <a href="https://www.google.co.kr/search?q=Java" target="_blank"
     ><img
@@ -378,8 +415,8 @@ I'm working as a front-end engineer. I value products, colleagues, and growth. I
 <h2>🏅 Stats</h2>
 <div>
   <img
-  src="https://github-readme-stats.vercel.app/api?username=imki123&show_icons=true&count_private=true"
-/>
+    src="https://github-readme-stats.vercel.app/api?username=imki123&show_icons=true&count_private=true"
+  />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=imki123&layout=compact"
   />
@@ -402,9 +439,7 @@ I'm working as a front-end engineer. I value products, colleagues, and growth. I
     src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@goyoung2"
   />
 </a>
-<a
-  href="https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15"
->
+<a href="https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15">
   <img
     src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15"
   />
