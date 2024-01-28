@@ -101,6 +101,11 @@ I'm working as a front-end engineer. I value products, colleagues, and growth. I
   /></a>
 </p>
 <p>
+  <a href="https://www.google.co.kr/search?q=TailwindCSS" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/TailwindCSS-06B6D4?&style=badge&logo=TailwindCSS&logoColor=white"
+      alt="Tailwind"
+  /></a>
   <a href="https://www.google.co.kr/search?q=Linaria" target="_blank"
     ><img
       src="https://img.shields.io/badge/Linaria-de2d68?&style=badge&logo=Linaria&logoColor=white"
