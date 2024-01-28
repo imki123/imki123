@@ -9,7 +9,7 @@
 
 ## 😄 About Me
 
-Hello! I am Hoodie(Geeyoung Im), a FE developer aiming to become a front-end tech leader. My dream is to become a developer that helps the world. I strive to create valuable products. ✨
+Hello! I'm working as a front-end engineer. I create products that help the world with proper design and good code. I think product, colleagues, and growth are important factors. 😎 ✨
 
 ## ⛵ Blog
 
@@ -17,8 +17,7 @@ Hello! I am Hoodie(Geeyoung Im), a FE developer aiming to become a front-end tec
 
 ## 📃 Resume
 
-- Resume(KR): https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15
-- Resume(EN): please contact me
+- Resume(KR): [https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15](https://goyoung2.notion.site/goyoung2/Greety-84d5d7aef7d045c58d76ed6d387913e0)
 
 ## 🚀 Side Projects
 
