@@ -9,7 +9,7 @@
 
 ## 😄 About Me
 
-I'm working as a front-end engineer. I value products, colleagues, and growth. I create products that help the world with proper design and good code. 😎
+I'm working as a front-end engineer. I value products, colleagues, and growth. I'm thinking about ways to increase development productivity and speed. 😊
 
 ## ⛵ Blog
 
