@@ -18,28 +18,16 @@ I am working as a frontend engineer. I value the product, colleagues, and growth
     src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/geeyoung-im-dev"
   />
 </a>
-<a href="mailto:popping2606@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:popping2606@gmail.com"
-  />
-</a>
 <a href="https://velog.io/@goyoung2" target="_blank">
   <img
     src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@goyoung2"
   />
 </a>
-<a
-  href="https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15"
-  target="_blank"
->
+<a href="mailto:popping2606@gmail.com">
   <img
-    src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15"
+    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:popping2606@gmail.com"
   />
 </a>
-
-## ⛵ Blog
-
-- <https://velog.io/@goyoung2>
 
 ## 📃 Resume
 
@@ -453,20 +441,3 @@ I am working as a frontend engineer. I value the product, colleagues, and growth
       src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimki123%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"
   /></a>
 </div>
-
-<h2>📧 Contact me</h2>
-<a href="mailto:popping2606@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:popping2606@gmail.com"
-  />
-</a>
-<a href="https://velog.io/@goyoung2">
-  <img
-    src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@goyoung2"
-  />
-</a>
-<a href="https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15">
-  <img
-    src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://goyoung2.notion.site/Hoodie-da631f0a1bec426ab4c36c0aa41e4b15"
-  />
-</a>
