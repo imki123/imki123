@@ -31,7 +31,7 @@ I am working as a frontend engineer. I value the product, colleagues, and growth
 
 ## 📃 Resume
 
-- Resume(KR): <https://goyoung2.notion.site/goyoung2/Greety-84d5d7aef7d045c58d76ed6d387913e0>
+- Resume(KR): <https://velog.io/@goyoung2/resume-im-geeyoung-greety>
 
 ## 🚀 Side Projects
 
