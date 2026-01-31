@@ -60,7 +60,7 @@ I am working as a frontend engineer. I value the product, colleagues, and growth
   /></a>
   <a href="https://www.google.co.kr/search?q=CSS3" target="_blank"
     ><img
-      src="https://img.shields.io/badge/CSS3-1572B6?&style=badge&logo=CSS3&logoColor=white"
+      src="https://img.shields.io/badge/CSS3-663399?&style=badge&logo=css&logoColor=white"
       alt="CSS3"
   /></a>
   <a href="https://www.google.co.kr/search?q=JavaScript" target="_blank"
@@ -129,6 +129,19 @@ I am working as a frontend engineer. I value the product, colleagues, and growth
 </p>
 
 <p>
+  <a href="https://www.google.co.kr/search?q=ReactNative" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/ReactNative-000000?&style=badge&logo=ReactNative&logoColor=white"
+      alt="ReactNative"
+  /></a>
+  <a href="https://www.google.co.kr/search?q=Expo" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/Expo-000020?&style=badge&logo=Expo&logoColor=white"
+      alt="Expo"
+  /></a>
+</p>
+
+<p>
   <a href="https://www.google.co.kr/search?q=TailwindCSS" target="_blank"
     ><img
       src="https://img.shields.io/badge/TailwindCSS-06B6D4?&style=badge&logo=TailwindCSS&logoColor=white"
@@ -153,19 +166,6 @@ I am working as a frontend engineer. I value the product, colleagues, and growth
     ><img
       src="https://img.shields.io/badge/Sass-CC6699?&style=badge&logo=Sass&logoColor=white"
       alt="Sass"
-  /></a>
-</p>
-
-<p>
-  <a href="https://www.google.co.kr/search?q=ReactNative" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/ReactNative-000000?&style=badge&logo=ReactNative&logoColor=white"
-      alt="ReactNative"
-  /></a>
-  <a href="https://www.google.co.kr/search?q=Expo" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/Expo-000020?&style=badge&logo=Expo&logoColor=white"
-      alt="Expo"
   /></a>
 </p>
 
@@ -375,6 +375,11 @@ I am working as a frontend engineer. I value the product, colleagues, and growth
       src="https://img.shields.io/badge/MongoDB-47A248?&style=badge&logo=mongodb&logoColor=white"
       alt="MongoDB"
   /></a>
+  <a href="https://www.google.co.kr/search?q=PostgreSQL" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/PostgreSQL-4169E1?&style=badge&logo=postgresql&logoColor=white"
+      alt="PostgreSQL"
+  /></a>
   <a href="https://www.google.co.kr/search?q=Mysql" target="_blank"
     ><img
       src="https://img.shields.io/badge/Mysql-4479A1?&style=badge&logo=Mysql&logoColor=white"
@@ -423,5 +428,10 @@ I am working as a frontend engineer. I value the product, colleagues, and growth
     ><img
       src="https://img.shields.io/badge/Notion-000000?&style=badge&logo=Notion&logoColor=white"
       alt="Notion"
+  /></a>
+  <a href="https://www.google.co.kr/search?q=Linear" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/Linear-5E6AD2?&style=badge&logo=Linear&logoColor=white"
+      alt="Linear"
   /></a>
 </p>
