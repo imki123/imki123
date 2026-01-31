@@ -353,7 +353,7 @@ I am working as a frontend engineer. I value the product, colleagues, and growth
   /></a>
   <a href="https://www.google.co.kr/search?q=AWS" target="_blank"
     ><img
-      src="https://img.shields.io/badge/AWS-232F3E?&style=badge&logo=Amazon AWS&logoColor=white"
+      src="https://img.shields.io/badge/AWS-232F3E?&style=badge"
       alt="AWS"
   /></a>
   <a href="https://www.google.co.kr/search?q=Heroku" target="_blank"
@@ -425,19 +425,3 @@ I am working as a frontend engineer. I value the product, colleagues, and growth
       alt="Notion"
   /></a>
 </p>
-
-<h2>🏅 Stats</h2>
-<div>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=imki123&show_icons=true&count_private=true"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imki123&layout=compact"
-  />
-</div>
-<div>
-  <a href="https://github.com/imki123">
-    <img
-      src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimki123%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"
-  /></a>
-</div>
