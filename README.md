@@ -1,7 +1,7 @@
 <!-- HTML context -->
 <div style="text-align:center;">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:4444ff&height=140&text=With%20Colleagues%20-%20Frontend%20Engineer%20Greety%20✨&animation=fadeIn&fontColor=000000&fontSize=32&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:4444ff&height=140&text=Frontend%20Engineer%20connecting%20people%20and%20technology✨&animation=fadeIn&fontColor=000000&fontSize=32&fontAlignY=35"
   />
 </div>
 
