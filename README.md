@@ -9,7 +9,8 @@
 
 ## 😄 About Me
 
-I am working as a frontend engineer. I value the product, colleagues, and growth. I am very interested in **how-to-work-well**. I enjoy conversations. Please feel free to contact me. 😊
+Senior Frontend Engineer with 9 years of experience leading architecture design and platform integration for large-scale React and TypeScript-based services. Delivered measurable results that improved both stability and productivity. Collaborate with humility, respect, and trust, connecting people, technology, and AI to build products that meaningfully enhance customer experience.
+
 
 ## 📧 Contact me
 
@@ -31,7 +32,7 @@ I am working as a frontend engineer. I value the product, colleagues, and growth
 
 ## 📃 Resume
 
-- Resume(KR): [[자기소개서] 동료와 함께 - 시니어 프론트엔드 엔지니어 임기영 Greety](https://velog.io/@goyoung2/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C-%EB%8F%99%EB%A3%8C%EC%99%80-%ED%95%A8%EA%BB%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%9E%84%EA%B8%B0%EC%98%81-Greety)
+- Resume(KR): https://velog.io/@goyoung2/resume-geeyoung
 
 ## 🚀 Side Projects
 
