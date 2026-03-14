@@ -9,7 +9,13 @@
 
 ## 😄 About Me
 
-Senior Frontend Engineer with 9 years of experience leading architecture design and platform integration for large-scale React and TypeScript-based services. Delivered measurable results that improved both stability and productivity. Collaborate with humility, respect, and trust, connecting people, technology, and AI to build products that meaningfully enhance customer experience.
+Hello! I am a senior front-end engineer with 9 years of experience. I have a positive and enthusiastic personality, and I value humility, respect, and trust as the foundation for building strong teamwork and a healthy team culture. I enjoy growing technically together with colleagues and find great fulfillment in achieving customer satisfaction and business outcomes through collaboration.
+
+Technically, I have led the architecture and development of large-scale services using React, React Native, and TypeScript. I focus on building stable and maintainable products through practical, domain-driven front-end architecture. I also enjoy improving engineering productivity by enhancing infrastructure, such as deployment automation and incident response systems.
+
+In my work, I help guide teams in the right direction by setting clear goals and measurable outcomes, using frameworks such as OKRs and KPIs. I also leverage tools like Scrum and Kanban boards to maintain visibility into team progress and enable efficient execution.
+
+I believe that meaningful achievements cannot be accomplished alone. I will continue striving to become an engineer who connects people and technology, builds strong teamwork, and creates synergy within teams.
 
 
 ## 📧 Contact me
